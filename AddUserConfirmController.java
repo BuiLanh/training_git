@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Copyright(C) 2019  Luvina Sofware
  * AddUserConfirmController.java Aug 1, 2019 Bui Thi Lanh
  */
@@ -20,7 +20,7 @@ import manageuser.utils.Constant;
 /**
  * Controller xử lý các logic của màn hình ADM004 Trường hợp Add user
  * 
- * @author Bui Thi Lanh
+ * @author Bui Thi Lanh LA22
  *
  */
 public class AddUserConfirmController extends HttpServlet {
