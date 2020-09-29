@@ -21,7 +21,7 @@ import manageuser.utils.Constant;
  * Controller xử lý các logic của màn hình ADM004 Trường hợp Add user
  * 
  * @author Bui Thi Lanh LA22
- *
+ * Tôi vào công ty được 1 năm
  */
 public class AddUserConfirmController extends HttpServlet {
 	// đảm bảo servlet khi đưa vào bộ nhớ và khi lấy ra là cùng 1 version
